@@ -1,5 +1,5 @@
 # Railway_Pathfinding_to_Increase_Throughput
-The present invention relates generally to the field of Railway Traffic Management Systems (RTMS). More specifically, it relates to an automated, multi-variable decision support system configured to dynamically reroute rolling stock to optimize physical network capacity, prevent deadlock scenarios,.
+The present invention relates generally to the field of Railway Traffic Management Systems (RTMS). More specifically, it relates to an automated, multi-variable decision support system configured to dynamically reroute rolling stock to optimize physical network capacity, prevent deadlock scenarios.But it is only skeleton for the realn project that is private, until gets patented , after that original repo will get public.
 2. BACKGROUND & PROBLEM STATEMENT
 Prior Art:
 Traditional railway pathfinding systems primarily rely on static schedules or simple distance-based algorithms (e.g., standard Dijkstra). These systems treat the railway network as a static graph where edge weights (travel times) remain constant regardless of traffic conditions.
